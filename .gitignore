@@ -7,3 +7,4 @@ dist/
 venv/
 backend/.deps/
 backend/.venv/
+*.tsbuildinfo
